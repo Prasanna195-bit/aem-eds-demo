@@ -228,6 +228,7 @@ main img {
     width: auto;
     height: auto;
     box-shadow: 0 4px 8px black;
+}
 
 .icon {
     display: inline-block;
